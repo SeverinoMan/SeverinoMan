@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola eu sou o Severino 👋
 
 <!--
 **SeverinoMan/SeverinoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
